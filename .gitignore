@@ -1,2 +1,6 @@
 .env39
 /env39
+venv
+/.venv
+.venv
+/venv
