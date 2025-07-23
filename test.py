@@ -3,8 +3,8 @@ from ultralytics import YOLO
 import os
 
 # === CONFIGURAÇÕES ===
-MODEL_PATH = r'C:\Users\pcp2\visao\visao-computacional\runs\detect\v1\weights\best.pt'
-VIDEO_PATH = 'test11.mp4'
+MODEL_PATH = r'C:\Users\TI DEV\visao_compt\visao-computacional\runs\detect\v2\weights\best.pt'
+VIDEO_PATH = 'teste_mp4.mp4'
 CONF_THRES = 0.25
 IOU_THRES = 0.45
 IMGSZ = 896

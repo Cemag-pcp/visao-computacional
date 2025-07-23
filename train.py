@@ -12,8 +12,8 @@ def main():
     data=data_path,
     epochs=30,
     imgsz=896,
-    batch=4,
-    name='v1'
+    batch=16,
+    name='v2'
   )
 
 if __name__ == '__main__':
