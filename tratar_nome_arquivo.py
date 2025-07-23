@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 
 # Caminho da pasta
-pasta = r"C:\Users\Luan\workspace\visao_comp\frames_extraidos"
+pasta = r"C:\Users\pcp2\visao\visao-computacional\frames_extraidos"
 
 # Data e hora atual (formato: AAAA-MM-DD_HHMMSS)
 data_hora_atual = datetime.now().strftime("%Y-%m-%d_%H%M%S")

@@ -1,8 +1,13 @@
 1. Grava o video
 2. renomeia o "video_path" de frames.py para usar o nome do video
 3. roda o frames.py
-4. roda o labelimg: labelImg C:\Users\Luan\workspace\visao_comp\frames_extraidos C:\Users\Luan\workspace\visao_comp\classes.txt
+4. roda o labelimg: labelImg C:\Users\pcp2\visao\visao-computacional\frames_extraidos C:\Users\pcp2\visao\visao-computacional\classes.txt
+C:\Users\pcp2\visao\visao-computacional\frames_extraidos
+C:\Users\pcp2\visao\visao-computacional\classes.txt
+
 5. deixa todo os arquivos dentro da pasta "frames_extraidos", tanto .png quanto .txt
+5.1. Se quiser mudar o nome dos arquivos, usar o arquivo tratar_nome_arquivo.py
+
 6. roda o imagem_alb.py
 7. troca os dados de dataset pelos os dados de dataset_aug
 8. roda o train.py

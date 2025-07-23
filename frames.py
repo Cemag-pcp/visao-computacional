@@ -2,11 +2,11 @@ import cv2
 import os
 
 # Caminho para o vídeo
-video_path = 'test9.mp4'
+video_path = 'video.mp4'
 # Pasta onde os frames serão salvos
 output_folder = 'frames_extraidos'
 # Intervalo entre os frames que serão salvos (ex: a cada 10 frames)
-frame_interval = 400
+frame_interval = 5
 
 # Cria a pasta se ela não existir
 os.makedirs(output_folder, exist_ok=True)
